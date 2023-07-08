@@ -1,0 +1,51 @@
+course_id,course_title,minutes_watched,minutes_per_student,completion_rate
+2,Introduction to Python Programming,26179.02,40.21,0.42
+3,Digital Marketing Fundamentals,44950.58,74.79,0.15
+4,Financial Planning for Beginners,20737.1,69.12,0.18
+5,Graphic Design Essentials,37058.31,99.35,0.25
+7,Web Development with HTML and CSS,297197.71,29.87,0.27
+11,Introduction to Machine Learning,21701.18,45.12,0.31
+12,Creative Writing Workshop,10002.14,38.62,0.14
+13,Introduction to Psychology,22321.72,23.08,0.42
+14,Social Media Marketing Strategies,215894.11,114.72,0.23
+15,Personal Finance and Investment,19513.04,42.98,0.11
+16,Introduction to Data Science,150891.8,107.55,0.17
+19,Photography Masterclass,5081.72,22.09,0.08
+20,Entrepreneurship 101,12035.7,15.53,0.45
+21,Introduction to Artificial Intelligence,199005.66,80.93,0.4
+22,Beginner's Guide to Photoshop,18588.64,24.65,0.48
+23,Fundamentals of Project Management,194196.44,63.11,0.29
+24,Introduction to Cryptocurrency,57515.15,81.12,0.37
+25,Mobile App Development with React Native,16635.13,34.02,0.14
+26,Public Speaking and Presentation Skills,7304.91,22.62,0.29
+27,Introduction to UX Design,12947.33,53.5,0.13
+28,Content Writing for the Web,44698.18,54.05,0.12
+29,Introduction to Blockchain Technology,8852.64,35.13,0.12
+30,Introduction to Video Editing,9997.8,24.5,0.49
+32,Fundamentals of Accounting,17836.6,56.99,0.19
+33,Introduction to Cybersecurity,10147.6,48.55,0.17
+34,Introduction to User Interface Design,13879.82,40.82,0.19
+35,Introduction to E-commerce,45381.43,41.29,0.32
+36,Introduction to 3D Modeling,5539.91,29.95,0.11
+37,Beginner's Guide to Stock Trading,54566.52,50.9,0.17
+39,Introduction to Social Psychology,29763.26,51.85,0.35
+41,Basics of Search Engine Optimization (SEO),4890.35,37.91,0.14
+42,Introduction to Mobile Photography,133662.39,63.41,0.22
+43,Introduction to Data Analysis with Excel,4868.47,29.69,0.15
+44,Introduction to Game Development,2824.45,29.73,0.25
+45,Effective Time Management Strategies,18614.85,13.17,0.09
+46,Introduction to Renewable Energy,80613.75,117.68,0.47
+48,Introduction to Music Production,1921.06,19.21,0.14
+49,Introduction to Human Resources Management,4827.08,33.99,0.2
+50,Basics of Artificial Neural Networks,4598.38,23.22,0.35
+51,Introduction to Interior Design,4444.74,27.95,0.08
+52,Introduction to Big Data Analytics,2961.85,25.31,0.46
+53,Introduction to Film Making,6227.82,24.14,0.14
+54,Basics of Email Marketing,4267.68,33.08,0.38
+55,Introduction to Astronomy,3475.05,32.18,0.4
+56,Introduction to Virtual Reality,1696.66,30.85,0.41
+57,Introduction to Fashion Design,1089.26,11.84,0.06
+59,Introduction to GIS (Geographic Information Systems),341.48,68.3,0.64
+60,Basics of Nutrition and Healthy Eating,84.45,84.45,0.95
+66,Introduction to Product Management,454.32,64.9,0.2
+67,Introduction to Philosophy,5089.67,44.65,0.26
